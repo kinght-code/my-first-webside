@@ -1,0 +1,57 @@
+h1 {
+    color: rgb(255, 0, 0);
+}
+h3 {
+    color: darkblue;
+}
+#question {
+background-color: blue;
+}
+.wifi{
+    color: white;
+background-color: rgb(142, 88, 192);
+border: 10px solid purple;
+border-radius: 20px;
+padding: 20px 40px;
+}
+.wifi2{
+    color: rgb(187, 56, 56);
+background-color: rgb(255, 255, 255);
+border: 10px solid rgb(3, 255, 142);
+border-radius: 20px;
+padding: 20px 40px;
+}
+
+.w3-row-padding {
+padding: 50px;
+}
+.w3-info {
+    background-color: chartreuse;
+}
+.w3-info::after {
+content: "";
+clear: both;
+display: table;
+}
+.w3-rest {
+float: right;
+padding-bottom: 50px;
+}
+.w3-btn {
+background-color: crimson;
+padding: 20px;
+text-decoration: none;
+color: white;
+font-size: 20px;
+font-family: sans-serif;
+}
+div > p:last-of-type {
+padding-bottom: 50px;
+}
+
+
+img {
+    
+    width: 50%;
+    border-radius: 50%;
+}
